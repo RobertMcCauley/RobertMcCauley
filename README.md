@@ -6,10 +6,10 @@ Data Professional | R Python | Identifying actionable insights and helping busin
 
 I have an academic background in the social sciences and professional experience in market research. Currently, I'm learning how to apply my skills in the data science field and branch out into new territories.
 
-* 🌍  I'm based in Long Island
+* 🌍  I'm based on Long Island
 * ✉️  You can contact me at [robert.b.mccauley@gmail.com](mailto:robert.b.mccauley@gmail.com)
-* 🧠  I'm learning Python basics and data science foundations.
-* 🤝  I'm open to collaborating on any projects that utilize retail sales data or publicly available census data. That, and anything that appeals to my inner nerd (music, film, books, art, pop culture, etc.)
+* 🧠  I'm learning Python applications in data science.
+* 🤝  I'm open to collaborating on projects utilizing retail sales data or any publicly available data sources. That, and anything that appeals to my inner nerd (music, film, books, art, pop culture, etc.)
 * ⚡  Lover of DIY art and music, cycling, skateboarding, and comic books.
 
 ### Skills
