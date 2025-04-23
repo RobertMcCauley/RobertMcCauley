@@ -1,7 +1,7 @@
 Hi 👋 My name is Robert McCauley
 ================================
 
-Data Professional | R Python | Identifying actionable insights and helping businesses make informed decisions.
+Data Professional | Identifying actionable insights and helping businesses make informed decisions.
 ---------------------------------------
 
 I have an academic background in the social sciences and professional experience in market research. Currently, I'm learning how to apply my skills in the data science field and branch out into new territories.
